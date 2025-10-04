@@ -1,3 +1,3 @@
 <div align="center">
-  <img src="https://github.com/botifyex/botifyex/blob/main/Banner.png" alt="Banner" width="100%" />
+  <img src="https://github.com/botifyex/botifyex/blob/main/Banner.png?raw=true" alt="Banner" width="100%" />
 </div>
